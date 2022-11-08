@@ -7,5 +7,5 @@
 * HTML
 * CSS
 * JavaScript
-* Boostrap
+* Bootstrap
 * GSAP
